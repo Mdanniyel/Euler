@@ -1,0 +1,1 @@
+n=round((9*log(1e111)+log(sqrt(5)))/log((1+sqrt(5))/2))%9*log(1e111)=log(10^999)
